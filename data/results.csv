@@ -13209,3 +13209,23 @@ number,position,positionText,grid,points,driverID,driver,nationality,constructor
 20,18,R,20,0,kevin_magnussen,Kevin Magnussen,Danish,haas,Haas F1 Team,37,Collision damage,,2022,12
 16,19,R,1,0,leclerc,Charles Leclerc,Monegasque,ferrari,Ferrari,17,Accident,,2022,12
 22,20,R,8,0,tsunoda,Yuki Tsunoda,Japanese,alphatauri,AlphaTauri,17,Undertray,,2022,12
+1,1,1,10,25,max_verstappen,Max Verstappen,Dutch,red_bull,Red Bull,70,Finished,5975912,2022,13
+44,2,2,7,19,hamilton,Lewis Hamilton,British,mercedes,Mercedes,70,Finished,5983746,2022,13
+63,3,3,1,15,russell,George Russell,British,mercedes,Mercedes,70,Finished,5988249,2022,13
+55,4,4,2,12,sainz,Carlos Sainz,Spanish,ferrari,Ferrari,70,Finished,5990491,2022,13
+11,5,5,11,10,perez,Sergio Pérez,Mexican,red_bull,Red Bull,70,Finished,5991600,2022,13
+16,6,6,3,8,leclerc,Charles Leclerc,Monegasque,ferrari,Ferrari,70,Finished,5991959,2022,13
+4,7,7,4,6,norris,Lando Norris,British,mclaren,McLaren,70,Finished,6054212,2022,13
+14,8,8,6,4,alonso,Fernando Alonso,Spanish,alpine,Alpine F1 Team,69,+1 Lap,,2022,13
+31,9,9,5,2,ocon,Esteban Ocon,French,alpine,Alpine F1 Team,69,+1 Lap,,2022,13
+5,10,10,18,1,vettel,Sebastian Vettel,German,aston_martin,Aston Martin,69,+1 Lap,,2022,13
+18,11,11,14,0,stroll,Lance Stroll,Canadian,aston_martin,Aston Martin,69,+1 Lap,,2022,13
+10,12,12,0,0,gasly,Pierre Gasly,French,alphatauri,AlphaTauri,69,+1 Lap,,2022,13
+24,13,13,12,0,zhou,Guanyu Zhou,Chinese,alfa,Alfa Romeo,69,+1 Lap,,2022,13
+47,14,14,15,0,mick_schumacher,Mick Schumacher,German,haas,Haas F1 Team,69,+1 Lap,,2022,13
+3,15,15,9,0,ricciardo,Daniel Ricciardo,Australian,mclaren,McLaren,69,+1 Lap,,2022,13
+20,16,16,13,0,kevin_magnussen,Kevin Magnussen,Danish,haas,Haas F1 Team,69,+1 Lap,,2022,13
+23,17,17,17,0,albon,Alexander Albon,Thai,williams,Williams,69,+1 Lap,,2022,13
+6,18,18,19,0,latifi,Nicholas Latifi,Canadian,williams,Williams,69,+1 Lap,,2022,13
+22,19,19,16,0,tsunoda,Yuki Tsunoda,Japanese,alphatauri,AlphaTauri,68,+2 Laps,,2022,13
+77,20,20,8,0,bottas,Valtteri Bottas,Finnish,alfa,Alfa Romeo,65,Power Unit,,2022,13
